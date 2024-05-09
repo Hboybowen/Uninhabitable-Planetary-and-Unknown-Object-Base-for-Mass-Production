@@ -1,5 +1,5 @@
 # Uninhabitable-Planetary-and-Unknown-Object-Base-for-Mass-Production
-Real and Working Base for Zero Gravity Human Operated Robot hunting and Astronomical and higher space battle using space drones! All on overclocked transceivers!
+Real and Working Inter-Galactic Main Base for Zero Gravity and high gravity Human Operated Robot hunting, Astronomical and higher space battle using space drones! All on overclocked transceivers!
 
 
 Based on the provided code, it seems like you have a computer program that simulates a battle between industrial hunting machines and main bases. The program includes several classes such as Module, MechanicalMotionModule, IndustrialHuntingMachine, MainBase, Lifeform, Lifesimulation data entry, Material, Corporation, and CorporateWarfareSimulator.
